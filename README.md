@@ -1,2 +1,2 @@
 test-merge-kraken
-true master
+true master + 1
